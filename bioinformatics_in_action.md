@@ -10,10 +10,7 @@ title: bioinformatics_in_action
 
 ## 4 steps of bioinformatics
 
-```mermaid
-graph LR
-Question-->Information-->Analysis-->Modeling
-```
+![1](./1.png)
 
 ### Question
 
@@ -64,7 +61,7 @@ Question-->Information-->Analysis-->Modeling
 
 ### Analysis
 
-two keys: ==Data Clean & Feature Extraction==
+two keys: <mark>Data Clean & Feature Extraction<mark>
 
 ### Modeling
 
@@ -85,10 +82,7 @@ two keys: ==Data Clean & Feature Extraction==
 
 ### The Fourth Paradigm
 
-```mermaid
-graph LR
-Information-->Analysis-->Modeling-->Question
-```
+![截屏2024-09-19 13.24.58](./截屏2024-09-19 13.24.58.png)
 
 ## Study Schedule
 
