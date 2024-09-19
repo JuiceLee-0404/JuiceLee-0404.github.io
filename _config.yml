@@ -33,8 +33,10 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
+  - title: Notes
+    url: /notes/
   - title: Bioinformatics in action
-    url: /bioinformatics_in_action/
+    url: /notes/bioinformatics_in_action/
   - title: Teams
     url: /teams/
 
