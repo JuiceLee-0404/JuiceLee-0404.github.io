@@ -5,6 +5,8 @@ About Me
 
 Here is Weijie Li (Juice Lee, 李玮杰).
 
+![syntheticbiology](./syntheticbiology.jpeg)
+
 I am an undergrad majoring in biochemistry and biochemical engineering at Tsinghua University. Currently, I am leading an iGEM team focusing on RNA SenSor based Analysis system in Yeast(RNAssay), with the help of Pr. Li Chun.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at li-wj21@mails.tsinghua.edu.cn.
@@ -30,7 +32,6 @@ My current research focuses on developing RNA SenSor based Analysis system in Ye
 ---
 
 News and Updates
-
 
 
 
