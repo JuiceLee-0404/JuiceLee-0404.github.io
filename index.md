@@ -1,7 +1,8 @@
+---
 layout: page
+---
 
-
-About Me
+# About Me
 
 Here is Weijie Li (Juice Lee, 李玮杰).
 
@@ -11,7 +12,7 @@ I am an undergrad majoring in biochemistry and biochemical engineering at Tsingh
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at li-wj21@mails.tsinghua.edu.cn.
 
-Academic Background
+## Academic Background
 
 - Sep 2024 - Future: Cambridge University (Incoming EE MPhil, supervised by Prof. Ozgur B. Akan)
 - Sep 2020 - June 2024: Maynooth University (BSc, EECS)
@@ -20,7 +21,7 @@ Academic Background
 
 ---
 
-Research Interests
+## Research Interests
 
 - Metabolic Engineering
 - RNA sensor design
@@ -31,7 +32,7 @@ My current research focuses on developing RNA SenSor based Analysis system in Ye
 
 ---
 
-News and Updates
+## News and Updates
 
 
 
